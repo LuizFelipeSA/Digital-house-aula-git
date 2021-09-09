@@ -1,0 +1,20 @@
+[
+  {
+    "titulo" : "Dora aventureira",
+    "ano": "2019",
+    "editora": "naoSei",
+    "preco" : 0.50
+  },
+  {
+    "titulo" : "Dora aventureira 2.0",
+    "ano": "2020",
+    "editora": "naoSei",
+    "preco" : 1.00   
+  },
+  {
+    "titulo" : "Dora aventureira - End Game",
+    "ano": "2021",
+    "editora": "naoSei",
+    "preco" : 2.50
+  }
+]
